@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MXWZ+tqP7OefKyhGrcBoLyiRJ6u46ekrD3XyWCMC+rc=",
+  "Source": "OLPServer",
+  "BasePath": "_content/OLPServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
